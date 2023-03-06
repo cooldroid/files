@@ -1,0 +1,9 @@
+||money.dailyhunt.in^
+||crashlyticsreports-pa.googleapis.com^
+||acdn.newshuntads.com^
+/grs.dbankcloud.*/
+||nexusrules.officeapps.live.com^
+||www.googletagmanager.com^
+||adservice.google.co.in^
+||firebase-settings.crashlytics.com^
+||settings.crashlytics.com^
