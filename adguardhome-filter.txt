@@ -7,3 +7,4 @@
 ||adservice.google.co.in^
 ||firebase-settings.crashlytics.com^
 ||settings.crashlytics.com^
+||bifrost-api.hotstar.com^
