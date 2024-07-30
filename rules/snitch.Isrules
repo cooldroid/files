@@ -1,0 +1,16 @@
+{
+  "description" : "Rules for brew utils",
+  "name" : "BrewRules",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1565831281.6080341,
+      "modificationDate" : 1565831281.6080341,
+      "owner" : "any",
+      "process" : "\/usr\/local\/bin\/atuin",
+      "protocol" : "any",
+      "direction": "outgoing",
+      "remote" : "any"
+    }
+  ]
+}
