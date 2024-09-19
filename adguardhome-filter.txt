@@ -8,3 +8,5 @@
 #||firebase-settings.crashlytics.com^
 #||settings.crashlytics.com^
 ||license.syntevo.com^
+||appinstallers-packages.services.jamfcloud.com^
+||techsmith.com^
