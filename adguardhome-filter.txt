@@ -10,3 +10,4 @@
 ||license.syntevo.com^
 ||appinstallers-packages.services.jamfcloud.com^
 ||techsmith.com^
+@@downloads.sentry-cdn.com^
