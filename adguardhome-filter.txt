@@ -11,3 +11,8 @@
 ||appinstallers-packages.services.jamfcloud.com^
 ||techsmith.com^
 @@downloads.sentry-cdn.com^
+||zimperium.com^
+||s3.brimo.nsgt.bri.co.id^
+||mobile.protectt.ai^
+||t3.protectt.ai^
+||t4.protectt.ai^
